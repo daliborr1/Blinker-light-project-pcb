@@ -5607,6 +5607,16 @@
 		)
 		(uuid "ffd4f1b6-846a-42aa-9b6a-b5e6f3e1a1a3")
 	)
+	(label "Izmena"
+		(at 146.05 31.75 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+			)
+			(justify left bottom)
+		)
+		(uuid "d73ead18-f68f-4644-8331-f4c25f8d68d8")
+	)
 	(symbol
 		(lib_id "Device:C")
 		(at 123.19 100.33 0)
